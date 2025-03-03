@@ -30,6 +30,6 @@ describe('', () => {
   describe('', () => {
     it('', () => {
       return true;
-    })
-  })
-})
+    });
+  });
+});
